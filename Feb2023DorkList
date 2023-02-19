@@ -1,0 +1,83 @@
+intitle:"Ganglia" "Cluster Report for"
+intitle:index.of people.lst
+index.of.secret
+index.of.private
+index.of.secure
+index.of.protected
+"ORA-00921: unexpected end of SQL command"
+inurl:passlist.txt
+intitle:"the page cannot be found" inetmgr
+intitle:"the page cannot be found" "2004 microsoft corporation"
+"Fatal error: Call to undefined function" -reply -the -next
+intitle:"index.of.personal"
+allinurl:/examples/jsp/snp/snoop.jsp
+intitle:"MikroTik RouterOS Managing Webpage"
++intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for"
+intitle:"index of" intext:globals.inc
+intitle:"Samba Web Administration Tool" intext:"Help Workgroup"
+filetype:reg reg +intext:"defaultusername" +intext:"defaultpassword"
+inurl:metaframexp/default/login.asp | intitle:"Metaframe XP Login"
+inurl:"webadmin" filetype:nsf
+filetype:url +inurl:"ftp://" +inurl:"@"
+intitle:"index of" mysql.conf OR mysql_config
+intitle:"Dell Remote Access Controller"
+filetype:pem intext:private
+intitle:"Big Sister" +"OK Attention Trouble"
+inurl:"/cricket/grapher.cgi"
+inurl:"cacti" +inurl:"graph_view.php" +"Settings Tree View" -cvs -RPM
+intitle:"System Statistics" +"System and Network Information Center"
+inurl:"wvdial.conf" intext:"password"
+inurl:"slapd.conf" intext:"credentials" -manpage -"Manual Page" -man: -sample
+inurl:"slapd.conf" intext:"rootpw" -manpage -"Manual Page" -man: -sample
+filetype:netrc password
+intitle:"ZyXEL Prestige Router" "Enter password"
+filetype:php inurl:"webeditor.php"
+BEGIN (CERTIFICATE|DSA|RSA) filetype:key
+inurl:explorer.cfm inurl:(dirpath|This_Directory)
+BEGIN (CERTIFICATE|DSA|RSA) filetype:csr
+"sets mode: +s"
+inurl:email filetype:mdb
+data filetype:mdb -site:gov -site:mil
+intitle:"Index Of" cookies.txt "size"
+inurl:backup filetype:mdb
+inurl:forum filetype:mdb
+intext:(password | passcode) intext:(username | userid | user) filetype:csv
+inurl:profiles filetype:mdb
+"Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright -inurl:help -guides|guide
+ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-"
+filetype:fp5 fp5 -site:gov -site:mil -"cvs log"
+filetype:fp3 fp3
+filetype:fp7 fp7
+inurl:/cgi-bin/sqwebmail?noframes=1
+filetype:ini ServUDaemon
+filetype:cfg login "LoginServer="
+intitle:"please login" "your password is *"
+mail filetype:csv -site:gov intext:name
+filetype:xls -site:gov inurl:contact
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+intext:"404 Object Not Found" Microsoft-IIS/5.0
+"ftp://" "www.eastgame.net"
+intitle:"ITS System Information" "Please log on to the SAP System"
+intitle:Novell intitle:WebAccess "Copyright *-* Novell, Inc"
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
+filetype:xls inurl:"email.xls"
+filetype:pl "Download: SuSE Linux Openexchange Server CA"
+filetype:php inurl:index.php inurl:"module=subjects" inurl:"func=*" (listpages| viewpage | listcat)
+intitle:"remote ui:top page"
+inurl:hp/device/this.LCDispatcher
+intitle:"WordPress > * > Login form" inurl:"wp-login.php"
+intitle:webeye inurl:login.ml
+intitle:"Object not found" netware "apache 1.."
+intitle:"DEFAULT_CONFIG - HP"
+camera linksys inurl:main.cgi
+intitle:"my webcamXP server!" inurl:":8080"
+intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"
+"The script whose uid is " "is not allowed to access"
+inurl:/cgi-bin/finger? Enter (account|host|user|username)
+intitle:"Virtual Server Administration System"
+"OPENSRS Domain Management" inurl:manage.cgi
+intitle:"toshiba network camera - User Login"
+"File Upload Manager v1.3" "rename to"
+intitle:"index of" intext:"content.ie5"
+"please visit" intitle:"i-Catcher Console" Copyright "iCode Systems"
+inurl:"putty.reg"
